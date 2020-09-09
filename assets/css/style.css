@@ -1,0 +1,41 @@
+/* Banner */
+.banner{
+    background-size: cover;
+}
+@media (max-width: 991px) {
+    .banner{
+        width: 920px !important;
+        height: 500px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner{
+        width: 445px !important;
+        height: 300px !important;
+    }
+}
+.banner .welcome{
+    color: #ffffff;
+}
+
+.btn{
+    border-radius: 25px !important;
+}
+
+/* Products section */
+@media (max-width: 991px) {
+    #products .col-md-4{
+        margin-bottom: 10px !important;
+    }
+}
+
+
+/* testimonial */
+#testimonial img{
+    border-radius: 50%;
+}
+
+
+
+
