@@ -78,7 +78,7 @@
           </div>
       </section><br><br>
 
-      <!-- ==============Cards for sell and buy options!================= -->
+      <!-- ==============Cards for selling and buying options!================= -->
       <section id="categories">
         <div class="text-center" class="mt-4" data-aos="fade-up" data-aos-delay="200">
             <h1 style="display: inline-block;">How can we help?</h1><br>
